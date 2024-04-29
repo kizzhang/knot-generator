@@ -1,6 +1,6 @@
 # generate knot conformation 
 
-support knot types: $3_1, 4_1, 5_1, 5_2$
+support knot types: $3_1, 4_1, 5_1, 5_2, 6_1, 6_2$
 
 support ring and open chains
 
